@@ -1,6 +1,10 @@
 
 
 
+
+
+//onboarding screen
+
 import 'package:flutter/material.dart';
 
 class OnboardingScreen1 extends StatelessWidget {
