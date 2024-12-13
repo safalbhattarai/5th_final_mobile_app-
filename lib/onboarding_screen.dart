@@ -1,9 +1,7 @@
 
 
-
-
-
 //onboarding screen
+// onboardingscreen2
 
 import 'package:flutter/material.dart';
 
