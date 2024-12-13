@@ -69,7 +69,7 @@ class OnboardingScreen2 extends StatelessWidget {
                 height: 500,
                 width: 300,
               ),
-            ),
+            ),onboarding
             const SizedBox(height: 40),
             const Text(
               'Stay with us ',
