@@ -1,8 +1,4 @@
 
-
-//onboarding screen
-// onboardingscreen2
-
 import 'package:flutter/material.dart';
 
 class OnboardingScreen1 extends StatelessWidget {
@@ -35,7 +31,7 @@ class OnboardingScreen1 extends StatelessWidget {
             ),
             const SizedBox(height: 20),
             const Text(
-              'Discover amazing features to simplify your tasks Eat fresh eat healthy',
+              'Discover amazing features to simplify your tasks. Eat fresh, eat healthy.',
               style: TextStyle(fontSize: 16),
               textAlign: TextAlign.center,
             ),
@@ -68,13 +64,13 @@ class OnboardingScreen2 extends StatelessWidget {
             Center(
               child: Image.asset(
                 'assets/images/onboarding2.jpg',
-                height: 500,
+                height: 300,
                 width: 300,
               ),
-            ),onboarding
+            ),
             const SizedBox(height: 40),
             const Text(
-              'Stay with us ',
+              'Stay with us',
               style: TextStyle(
                 fontSize: 24,
                 fontWeight: FontWeight.bold,
@@ -111,5 +107,9 @@ class OnboardingScreen2 extends StatelessWidget {
     );
   }
 }
+
+
+
+
 
 
