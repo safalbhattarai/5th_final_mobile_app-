@@ -20,6 +20,7 @@
 
 
 //dashbaord pages
+// adding home,cart,contactus and setting page
 
 
 
